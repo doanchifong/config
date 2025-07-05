@@ -1,13 +1,13 @@
 {
-  "host_domain": "http://sun-win.sa.com/",
-  "api_domain": "http://sun-win.sa.com/",
+  "host_domain": "https://sun-win.sa.com/",
+  "api_domain": "https://sun-win.sa.com/",
   
   "iFrame_domain": "https://web.sun.win/",
   "gemwin_lp_url": "gemwin.vip",
   "lp_domain": "https://sun.win/",
   "lp_domain_zo": "https://zowin.tv/",
   "lp_domain_nhat": "https://nhatvip.vip/",
-  "rs_domain": "http://sun-win.sa.com/",
+  "rs_domain": "https://sun-win.sa.com/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "ws_sport_domain": "wss://wssport.azhkthg1.com/websocket",
   "xd_live_version": "1.0.2",
