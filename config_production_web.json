@@ -1,6 +1,7 @@
 {
   "host_domain": "http://localhost:8000/",
   "api_domain": "http://localhost:8000/",
+  
   "iFrame_domain": "https://web.sun.win/",
   "gemwin_lp_url": "gemwin.vip",
   "lp_domain": "https://sun.win/",
