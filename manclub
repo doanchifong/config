@@ -1,0 +1,15 @@
+{
+  "host_domain": "http://localhost:20392/",
+  "api_domain": "http://localhost:20392/",
+  "rs_domain": "http://localhost:20392/",
+  "lp_domain": "http://localhost:20392/",
+  "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
+  "sport_domain": "https://sport.mangee.io/",
+  "ws_sport_domain": "wss://wssport.atpman.net/websocket",
+  "top_sport_domain": "https://top-sport.atpman.net/sport/top",
+  "chat_sport_domain": "https://api.atpman.net/id/id",
+  "authorizationEndpoint": "https://login.man.club/auth/authorize",
+  "tokenEndpoint": "https://login.man.club/auth/token",
+  "appName": "manclub",
+  "brand": "man.club"
+}
