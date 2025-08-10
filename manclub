@@ -1,8 +1,8 @@
 {
-  "host_domain": "http://localhost:20392/",
-  "api_domain": "http://localhost:20392/",
-  "rs_domain": "http://localhost:20392/",
-  "lp_domain": "http://localhost:20392/",
+  "host_domain": "http://man.club/",
+  "api_domain": "http://man.club/",
+  "rs_domain": "http://man.club/",
+  "lp_domain": "http://man.club/",
   "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
   "sport_domain": "https://sport.mangee.io/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
